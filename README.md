@@ -36,11 +36,17 @@ Jupyter Notebook with advanced data quality checks and exploratory analysis acro
 - Stock distribution analysis by category and color
 - Revenue analysis by state and fulfilment channel (Amazon dataset)
 
-### Phase 3 — Dashboard (In Progress)
-Interactive Looker Studio dashboard connecting the cleaned datasets to track:
-- Stock levels by category and size
-- Revenue by region and sales channel
-- Order status breakdown (Shipped / Cancelled / Returned)
+### Phase 3 — ## 📊 Interactive Business Intelligence Dashboard
+
+The processed dataset was connected to **Google Looker Studio** to build an interactive dashboard focused on inventory control and data-driven commercial decisions.
+
+* **Live Dashboard Link:** [E-commerce Sales & Inventory Dashboard](https://datastudio.google.com/reporting/4a61d407-6ed2-4f04-b5a1-b1c5eb09e5a2)
+
+### 📈 Dashboard Core Features:
+* **Global KPIs:** High-level overview of total available stock in real-time.
+* **Category Breakdown:** Column chart showing inventory distribution to quickly identify which product lines hold the highest warehouse capacity.
+* **Dynamic Filters:** Cross-segmentation by `Color` and `Size` for precise availability analysis.
+* **Granular Operational View:** A detailed data table breakdown by SKU and Design Number for daily stock tracking.
 
 ---
 
