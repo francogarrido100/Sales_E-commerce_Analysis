@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+.venv
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs generados
+Sales_Report_Clean.xlsx
+output/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
