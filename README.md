@@ -94,7 +94,7 @@ jupyter notebook eda_sales_analysis.ipynb
 - **Matplotlib / Seaborn** — visualizations
 - **OpenPyXL** — Excel export
 - **Jupyter Notebooks** — exploratory analysis
-- **Looker Studio** — dashboard (in progress)
+- **Looker Studio** — dashboard
 - **VS Code** — development environment
 
 ---
