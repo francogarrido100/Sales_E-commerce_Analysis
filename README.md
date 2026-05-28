@@ -36,7 +36,7 @@ Jupyter Notebook with advanced data quality checks and exploratory analysis acro
 - Stock distribution analysis by category and color
 - Revenue analysis by state and fulfilment channel (Amazon dataset)
 
-### Phase 3 — ## 📊 Interactive Business Intelligence Dashboard
+### Phase 3 — 📊 Interactive Business Intelligence Dashboard
 
 The processed dataset was connected to **Google Looker Studio** to build an interactive dashboard focused on inventory control and data-driven commercial decisions.
 
